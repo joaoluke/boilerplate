@@ -1,0 +1,22 @@
+{
+  "name": "WavePoint Front",
+  "short_name": "WavePoint",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "images/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "images/png"
+    }
+  ],
+  "theme_color": "#06092B",
+  "background_color": "#06092B",
+  "start_url": "/",
+  "description": "Sistema de pontos da WaveCode",
+  "display": "fullscreen"
+}
